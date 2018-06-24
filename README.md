@@ -29,7 +29,7 @@ python recommender.py
 Below are a few notes about the dataset.
 
 ## Attributes
-The attributes that are used to recommend a sport is as follows:
+The attributes that are used to recommend a sport is as defined from ESPN:
 
 * __Endurance__: The ability to continue to perform a skill or action for long periods of time. Example: Lance Armstrong
 * __Strength__: The ability to produce force. Example: NFL linebackers.
